@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9L8GljIv64=",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ColonyChatter\\Source\\ColonyChatter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shane\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

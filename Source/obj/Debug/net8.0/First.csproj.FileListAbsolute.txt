@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\First\Assemblies\Debug\net8.0\First.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\First\Assemblies\Debug\net8.0\First.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\First\Assemblies\Debug\net8.0\First.pdb
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.csproj.AssemblyReference.cache
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.csproj.Up2Date
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.dll
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\refint\First.dll
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\First.pdb
+C:\Users\shane\OneDrive\Documents\RimWorld Mods\First\First\obj\Debug\net8.0\ref\First.dll
